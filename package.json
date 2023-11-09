@@ -1,5 +1,5 @@
 {
-  "name": "node-rdap",
+  "name": "@nemanjan00/node-rdap",
   "version": "0.3.5",
   "type": "module",
   "main": "./dist/tsc/client.js",
