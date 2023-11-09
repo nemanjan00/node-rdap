@@ -1,6 +1,6 @@
 {
-  "name": "@nemanjan00/node-rdap",
-  "version": "0.3.5",
+  "name": "node-rdap-lacnic",
+  "version": "0.3.6",
   "type": "module",
   "main": "./dist/tsc/client.js",
   "types": "./dist/tsc/client.d.ts",
